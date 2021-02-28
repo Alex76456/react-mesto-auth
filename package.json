@@ -1,6 +1,6 @@
 {
   "name": "mesto-react-auth",
-  "homepage": "https://alex76456.github.io/mesto-react-auth/",
+  "homepage": "https://alex76456.github.io/react-mesto-auth/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,6 +10,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-hook-form": "^6.15.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4"
   },
