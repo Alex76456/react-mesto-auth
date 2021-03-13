@@ -3,6 +3,7 @@
 ### Mesto-react: это пректная работа 12 спринта в Яндекс Практикум на курсе "профессия Веб-разработчик".
 
 <img src="./public/pre1.png" width="50%"><img src="./public/pre2.png" width="50%">
+<img src="./public/pre3.png" width="50%">
 
 
 ### [Ссылка на проект](https://alex76456.github.io/react-mesto-auth/)
